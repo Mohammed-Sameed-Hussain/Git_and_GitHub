@@ -1,0 +1,3 @@
+mylogs.log
+# to ignore this file add this file to .gitignore
+# If a file is present even in a sub-directory witht the name mylogs.log it will be ignored
