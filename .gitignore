@@ -1,3 +1,11 @@
 mylogs.log
 # to ignore this file add this file to .gitignore
-# If a file is present even in a sub-directory witht the name mylogs.log it will be ignored
+# If a files is present even in different sub-directories with the name mylogs.log it will be ignored
+
+# *.log // This extension ignores all files with .log extension
+
+# If you want a file with a particular name (here mylog.log) to be just ignore in the
+# current working root the use the command /mylogs.log
+
+# This command to igore the directory
+waste_dir/
